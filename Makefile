@@ -1,5 +1,5 @@
 
-CXXFLAGS:=-O2 -g -Wall -Wextra -Wshadow -std=c++11
+CXXFLAGS:=-O2 -g -Wall -Wextra -Wshadow -std=c++0x 
 LDFLAGS:=-lcrypto
 
 ALL:
